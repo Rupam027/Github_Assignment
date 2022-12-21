@@ -4,7 +4,7 @@ class UnsupportedTransactionException extends Exception{
 	
 	public String toString() {
 
-		return "INVALID TRANSACTION" ;
+		return "Invalid Transaction" ;
 	
 	}
 	
